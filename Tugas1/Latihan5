@@ -1,0 +1,17 @@
+<html>
+    <head>
+    <TITLE> 
+        Menggunakan Teknik Format Penulisan 
+    </TITLE>
+    </head>
+    <body>
+    <!-- membuat tulisan menjadi Tebal -->
+    <b> Tulisan ini dicetak TEBAL </b>
+    <P>
+    <!-- membuat tulisan menjadi Miring -->
+    <i> Tulisan ini dicetak MIRING </i>
+    </P>
+    <!-- membuat tulisan menjadi bergaris bawah -->
+    <u> Tulisan ini dicetak BERGARIS BAWAH </u>
+    </body>
+</html>
